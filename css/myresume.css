@@ -21,7 +21,7 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #005726;
+	background-color: #005726!important;
 	background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
 
 }
