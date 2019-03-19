@@ -30,4 +30,10 @@ h1 .text-primary {
 	margin-top: 3rem;
 }
 
+.text-primary {
+  color: #5885a1 !important;
+}
+a {
+  color: #699aab;
+}
 	
