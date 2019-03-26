@@ -34,5 +34,9 @@ h1 .text-primary {
 }
 a {
   color: #365d64!important ;
+ }
+ .social-icons a:hover {
+  background-color: #365d64!important;
 }
+
 	
