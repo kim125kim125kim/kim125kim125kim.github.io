@@ -61,5 +61,7 @@ table td, table th {
   right: 0;
   width: 200px;
 }
- 
+ .dev-icons .list-inline-item  i:hover {
+  color: #365d64!important;
+}
  
